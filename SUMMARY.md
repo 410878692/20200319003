@@ -1,6 +1,6 @@
 # Summary
 
-  * [Introduction](README.md)
+  * [金关版辅助系统-企业端 业务操作手册](README.md)
   * [引言](ch0/preface.md)
       * [编写目的](ch0/RepSearchPractice.md)
       * [参考资料](ch0/RepTaskBasic.md)_
